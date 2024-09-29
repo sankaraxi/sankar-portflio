@@ -1,2 +1,8 @@
-# sankar-portflio
-A curated showcase of my expertise in full-stack development, data analytics and machine learning,  demonstrated through innovative projects and impactful solutions.
+# Sankar Gnanasekar's Portfolio
+
+## Under Development
+   
+### Tech Stack
+- Next.js
+- Tailwind CSS
+- Framer Motion
