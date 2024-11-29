@@ -16,8 +16,8 @@ const Links = [
         href: "/resume"
     },
     {
-        name: "work",
-        href: "/work"
+        name: "blogs",
+        href: "/blogs"
     },
     {
         name: "contact",
